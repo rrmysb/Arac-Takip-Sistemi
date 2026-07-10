@@ -1,0 +1,4 @@
+imapclient
+pyzmail36
+mysql-connector-python
+python-dotenv
