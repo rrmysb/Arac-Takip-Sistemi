@@ -27,6 +27,8 @@ Proje kapsamında kurumsal süreçleri otomatikleştirmek adına 3 farklı API v
 4. **Visualization (Analitik):** Power BI, MySQL tablosuna bağlanarak araçların maksimum hız limit aşımlarını, fazla mesai kullanımlarını ve günlük operasyonel verimlilik raporlarını yöneticilere sunar.
 
 ---
+## 📊 Proje Çıktıları ve Power BI Paneli
+![Araç Takip Analitik Paneli](images/dashboard.png)
 
 ## 📁 Repozitör Klasör Yapısı
 
