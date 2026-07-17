@@ -32,8 +32,7 @@ def parse_email_body(body_text):
         # MySQL DATE formatına çevir: YYYY-MM-DD
         data['tarih'] = f"{date_match.group(3)}-{date_match.group(2)}-{date_match.group(1)}"
 
-    # Örnek Regex kalıpları (Gelen e-posta formatına göre özelleştirilebilir)
-    # Raporundaki mantığa uygun olarak verileri sözlük (dict) yapısına dolduruyoruz.
+
     
     return data
 
